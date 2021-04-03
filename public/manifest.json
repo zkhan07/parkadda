@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "ParkAdda",
+  "name": "ParkAdda | Contactless Automated Smart Parking Management | FASTag | Find Parking Nearby",
   "icons": [
     {
       "src": "favicon.ico",
