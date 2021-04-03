@@ -1,5 +1,5 @@
 import React, { Suspense, lazy } from "react";
-import { BrowserRouter, HashRouter, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 import AppStreamCam from "../Components/Test/Test";
 
 import Loader from "../util/Loader/Loader";
@@ -27,7 +27,7 @@ const NotFound = lazy(() => import("../util/NotFound/NotFound"));
 
 export const Routes = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Suspense fallback={<Loader />}>
         <Switch>
           <Route exact path="/" component={Dashboard} />
@@ -47,7 +47,7 @@ export const Routes = () => {
           <Route exact path="*" component={NotFound} />
         </Switch>
       </Suspense>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
