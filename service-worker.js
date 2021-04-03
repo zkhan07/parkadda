@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/parkadda/precache-manifest.38ab278b707f0fb0c5ccb1806e9e266e.js"
+  "/parkadda/precache-manifest.dcd2044d15f121be99f13c6b77d42700.js"
 );
 
 workbox.clientsClaim();

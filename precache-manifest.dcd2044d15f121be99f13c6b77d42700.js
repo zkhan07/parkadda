@@ -148,20 +148,20 @@ self.__precacheManifest = [
     "url": "/parkadda/static/media/vector1.35b483bf.png"
   },
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/parkadda/static/media/slick.f97e3bbf.svg"
-  },
-  {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/parkadda/static/media/slick.d41f55a7.ttf"
-  },
-  {
     "revision": "ced611daf7709cc778da928fec876475",
     "url": "/parkadda/static/media/slick.ced611da.eot"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/parkadda/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/parkadda/static/media/slick.d41f55a7.ttf"
+  },
+  {
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/parkadda/static/media/slick.f97e3bbf.svg"
   },
   {
     "revision": "deb3d9a1ba44d7b877afd4ade9b198e2",
